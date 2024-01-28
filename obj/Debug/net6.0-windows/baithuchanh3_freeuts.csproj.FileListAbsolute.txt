@@ -1,0 +1,17 @@
+C:\Users\phihi_6b0xaz1\Desktop\nganh_IT_lap_trinh\laptrinhW\baithuchanh3_freeuts\bin\Debug\net6.0-windows\baithuchanh3_freeuts.exe
+C:\Users\phihi_6b0xaz1\Desktop\nganh_IT_lap_trinh\laptrinhW\baithuchanh3_freeuts\bin\Debug\net6.0-windows\baithuchanh3_freeuts.deps.json
+C:\Users\phihi_6b0xaz1\Desktop\nganh_IT_lap_trinh\laptrinhW\baithuchanh3_freeuts\bin\Debug\net6.0-windows\baithuchanh3_freeuts.runtimeconfig.json
+C:\Users\phihi_6b0xaz1\Desktop\nganh_IT_lap_trinh\laptrinhW\baithuchanh3_freeuts\bin\Debug\net6.0-windows\baithuchanh3_freeuts.dll
+C:\Users\phihi_6b0xaz1\Desktop\nganh_IT_lap_trinh\laptrinhW\baithuchanh3_freeuts\bin\Debug\net6.0-windows\baithuchanh3_freeuts.pdb
+C:\Users\phihi_6b0xaz1\Desktop\nganh_IT_lap_trinh\laptrinhW\baithuchanh3_freeuts\obj\Debug\net6.0-windows\baithuchanh3_freeuts.Form1.resources
+C:\Users\phihi_6b0xaz1\Desktop\nganh_IT_lap_trinh\laptrinhW\baithuchanh3_freeuts\obj\Debug\net6.0-windows\baithuchanh3_freeuts.Properties.Resources.resources
+C:\Users\phihi_6b0xaz1\Desktop\nganh_IT_lap_trinh\laptrinhW\baithuchanh3_freeuts\obj\Debug\net6.0-windows\baithuchanh3_freeuts.csproj.GenerateResource.cache
+C:\Users\phihi_6b0xaz1\Desktop\nganh_IT_lap_trinh\laptrinhW\baithuchanh3_freeuts\obj\Debug\net6.0-windows\baithuchanh3_freeuts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phihi_6b0xaz1\Desktop\nganh_IT_lap_trinh\laptrinhW\baithuchanh3_freeuts\obj\Debug\net6.0-windows\baithuchanh3_freeuts.AssemblyInfoInputs.cache
+C:\Users\phihi_6b0xaz1\Desktop\nganh_IT_lap_trinh\laptrinhW\baithuchanh3_freeuts\obj\Debug\net6.0-windows\baithuchanh3_freeuts.AssemblyInfo.cs
+C:\Users\phihi_6b0xaz1\Desktop\nganh_IT_lap_trinh\laptrinhW\baithuchanh3_freeuts\obj\Debug\net6.0-windows\baithuchanh3_freeuts.csproj.CoreCompileInputs.cache
+C:\Users\phihi_6b0xaz1\Desktop\nganh_IT_lap_trinh\laptrinhW\baithuchanh3_freeuts\obj\Debug\net6.0-windows\baithuchanh3_freeuts.dll
+C:\Users\phihi_6b0xaz1\Desktop\nganh_IT_lap_trinh\laptrinhW\baithuchanh3_freeuts\obj\Debug\net6.0-windows\refint\baithuchanh3_freeuts.dll
+C:\Users\phihi_6b0xaz1\Desktop\nganh_IT_lap_trinh\laptrinhW\baithuchanh3_freeuts\obj\Debug\net6.0-windows\baithuchanh3_freeuts.pdb
+C:\Users\phihi_6b0xaz1\Desktop\nganh_IT_lap_trinh\laptrinhW\baithuchanh3_freeuts\obj\Debug\net6.0-windows\baithuchanh3_freeuts.genruntimeconfig.cache
+C:\Users\phihi_6b0xaz1\Desktop\nganh_IT_lap_trinh\laptrinhW\baithuchanh3_freeuts\obj\Debug\net6.0-windows\ref\baithuchanh3_freeuts.dll

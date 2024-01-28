@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "baithuchanh3_freeuts/1.0.0": {
+        "runtime": {
+          "baithuchanh3_freeuts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "baithuchanh3_freeuts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
