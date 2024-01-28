@@ -9,5 +9,6 @@ namespace baithuchanh3_freeuts
     public class Nhanvien
     {
         //thong tin cua nhan vien
+        //nhap ten va ma so sinh vien
     }
 }
